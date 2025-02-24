@@ -1,2 +1,2 @@
-# Bank-management
-Bank management
+# Student Modification System
+Student Modification System
